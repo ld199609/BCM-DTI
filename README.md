@@ -8,6 +8,6 @@ In this work, we propose a fragment-oriented neural network for drug-target inte
 In the data folder, we provide all four processed datasets used in BCM-DTI: BindingDB, DAVIS, celegans and human.
 
 # Run
-You can also directly run 
+You can directly run 
   `python SSCNN_train.py`
 to run the experiments.
